@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src='https://github.com/bethanygarthwaite/bethanygarthwaite/blob/main/header.png'>
 
 <!--
 **bethanygarthwaite/bethanygarthwaite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
